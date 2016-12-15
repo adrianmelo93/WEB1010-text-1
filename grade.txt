@@ -1,0 +1,12 @@
+Adrian Melo
+WEB1010 - Test 1
+
+Grade: 5.5/6
+91.7%
+
+Notes:
+
+Question 5: The question asked you to set the max-width only for images that were
+inside of a figure element. You set the max-width for all images on the webpage.
+Notice that the "code" image also has a max-width of 300px, but it is not supposed to.
+You earned half credit for this question.
